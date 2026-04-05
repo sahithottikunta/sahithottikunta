@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/ottikuntasahith/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:osahith@stevens.edu">
+  <a href="mailto:sahithottikunta1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Ottikunta-sahith/" target="_blank">
@@ -33,7 +33,7 @@
 - 🏥 Former **Graduate Research Assistant** — NLP for clinical event extraction from MIMIC-III/IV using ClinicalBERT, BioBERT & seq2seq models
 - 📄 Top Performer @ Outamation — built RAG pipelines over 200+ page mortgage documents using FAISS, Chroma, Gemini & Mistral
 - 🌱 Currently exploring: **Graph Neural Networks**, **Temporal Relation Extraction**, **Agentic AI systems**
-- 📬 Reach me: **osahith@stevens.edu**
+- 📬 Reach me: **sahithottikunta1234@gmail.com**
 
 ---
 
